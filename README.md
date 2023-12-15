@@ -3,7 +3,7 @@
 
 <h3> Hello </h3>
 <p>hello my name is Sangwon Jwa</p>
-<p>My major is computer science, especially JAVA, SPRING framework</p>
+<p>My major is computer science, especially JAVA, SPRING(Boot) framework</p>
 
 <h3> Projects </h3>
 
