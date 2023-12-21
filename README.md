@@ -1,10 +1,5 @@
 
-<h1 align="center"> Sangwon Jwa </h1>
-
-
-<h3 align="center"> 안녕하세요! 주니어 개발자 좌상원입니다. </h3>
-<h3 align="center">아직은 부족한 점이 많지만, 내일은 오늘보다 한 단계 성장한 개발자가 되겠습니다! </h3>
-<h3 align="center"> 잘 부탁드립니다 !!</h3>
+<h1> Sangwon Jwa </h1>
 
 <h3> Projects </h3>
 
