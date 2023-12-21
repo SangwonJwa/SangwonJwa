@@ -1,8 +1,7 @@
 
 <h1 align="center"> Sangwon Jwa </h1>
 
-<h3> Hello </h3>
-<p>hello my name is Sangwon Jwa</p>
+<h3> 안녕하세요! </h3>
 <p>My major is computer science, especially JAVA, SPRING(Boot) framework</p>
 
 <h3> Projects </h3>
